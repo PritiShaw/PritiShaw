@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing Computer Science from Jadavpur University
 - 👯 I’m looking for Entry Level Software Development Roles starting June,2021
 - 📫 How to reach me: Send a Hi to pritishaw0103@gmail.com
+- Connect with me in [LinkedIn](https://www.linkedin.com/in/pritishaw01)
 
 <!--
 **PritiShaw/PritiShaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
