@@ -1,7 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 - 🌱 I’m currently pursuing Computer Science from Jadavpur University
-- 👯 I’m looking for Entry Level Software Development Roles starting June,2021
 - 📫 How to reach me: Send a Hi to pritishaw0103@gmail.com
 - Connect with me in [LinkedIn](https://www.linkedin.com/in/pritishaw01)
 
